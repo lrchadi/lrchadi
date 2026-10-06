@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @lrchadi
-- 👀 I’m interested in Developement
+# Hi, I'm Chadi 👋
 
-- I'm currently learn about web developpement frontend and backend.
-- my skills are :
-- React.js - tailwindcss - express.js - mongodb fro database - HTML/CSS - JavaScript
+I'm a passionate **Web Developer** interested in building modern, scalable, and user-friendly web applications. I'm continuously improving my skills across both **frontend and backend development**, while exploring new technologies and best practices.
 
-<!---
-lrchadi/lrchadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Technologies & Skills
+
+* **Frontend:** Nextjs, React.js, Tailwind CSS, HTML5, CSS3, JavaScript
+* **Backend:** Node.js, Express.js, Nestjs
+* **Database:** MongoDB, PpostgreSQL
+
+I'm always learning, experimenting, and working on new projects to strengthen my development skills and turn ideas into real-world applications.
